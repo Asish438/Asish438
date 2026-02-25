@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Asish438/Asish438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Asish438# 👋 Hi, I'm Asish  
+👋 Hi, I'm Asish  
 
 🎓 B.Tech CSE (AI) Student  
 🚀 Focused on Data Science, AI/ML & Scalable Backend Systems  
