@@ -94,13 +94,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Data Structures & Competitive Coding
-
-- 📘 Following Striver’s A2Z DSA Sheet  
-- 💻 Regular LeetCode Practice  
-- 📊 Codolio Profile:  
-  👉 https://codolio.com/profile/Asish_AM  
-
 ---
 
 🔥 Passionate about Backend + AI Systems  
