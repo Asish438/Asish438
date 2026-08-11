@@ -45,7 +45,7 @@ College  : GIFT Autonomous College, Bhubaneswar
 Degree   : B.Tech CSE (AI & ML) — 2023–2027
 CGPA     : 8.0 / 10.0
 Status   : 🟢 Open to Work — Internship / Full-Time
-DSA      : 350+ problems on LeetCode & GeeksforGeeks
+DSA      : 450+ problems on LeetCode & GeeksforGeeks
 Focus    : Spring Boot · Generative AI · System Design · Deep Learning
 ```
 
@@ -59,7 +59,7 @@ Focus    : Spring Boot · Generative AI · System Design · Deep Learning
 
 | 🧩 DSA Solved | 🤖 AI Projects | 🎓 CGPA | 💼 Internships |
 |:---:|:---:|:---:|:---:|
-| **350+** | **2+** | **8.0 / 10** | **2+** |
+| **450+** | **2+** | **8.0 / 10** | **2+** |
 
 </div>
 
