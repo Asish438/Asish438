@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Asish%20Mahapatra&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Building+Intelligent+Backend+Systems+%F0%9F%9A%80;Spring+Boot+%2B+Generative+AI+Developer;350%2B+DSA+Problems+Solved+%F0%9F%A7%A9;Open+to+Internships+%26+Full-Time+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Building+Intelligent+Backend+Systems+%F0%9F%9A%80;Spring+Boot+%2B+Generative+AI+Developer;450%2B+DSA+Problems+Solved+%F0%9F%A7%A9;Open+to+Internships+%26+Full-Time+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <!-- Profile views + badges -->
 <p>
