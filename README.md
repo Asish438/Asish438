@@ -262,7 +262,7 @@ Focus    : Spring Boot · Generative AI · System Design · Deep Learning
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me 🌍
 
 <div align="center">
 
