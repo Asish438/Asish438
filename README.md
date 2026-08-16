@@ -147,48 +147,130 @@ Focus    : Spring Boot · Generative AI · System Design · Deep Learning
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+### 💳 FinGuard AI — Fintech Fraud Detection & Compliance
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autoencoders-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**Real-time fraud detection engine with RBI compliance Q&A, trip expense splitting & bank-grade authentication**
+
+✨ **Key Features:**
+- 🔍 Autoencoder-based anomaly detection for transaction fraud
+- 📋 RAG-powered RBI compliance knowledge base with domain-specific answers
+- 💰 Intelligent trip expense splitting with settlement algorithms
+- 🔐 JWT + OAuth2 authentication with OTP verification
+- ⚡ Sub-100ms fraud detection & microsecond response times
+
+<a href="https://github.com/Asish438/FinGuard-AI">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+### 📚 Edutake — Full-Stack Learning Management System
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Glassmorphism-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dark%20Mode-000000?style=flat-square" />
+</p>
+
+**Enterprise-grade LMS platform with role-based multi-tenant architecture & modern UI aesthetics**
+
+✨ **Key Features:**
+- 👨‍🎓 Student Dashboard: Enrollment, course browsing, assignments, inbox messaging
+- 👨‍🏫 Faculty Panel: Course management, grading, progress tracking, announcements
+- 🛡️ Admin Portal: User management, role assignments, system analytics
+- 🎨 Chalkboard + Glassmorphism UI with seamless dark/light toggle
+- 📱 Responsive design for desktop & mobile platforms
+
+<a href="https://github.com/Asish438/Edutake">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
 
 ### 🌍 AI-Powered Disaster Alert System
 
-**Java • Spring Boot • REST APIs • AI/ML**
-
-- Real-time disaster monitoring backend with live API streams detecting & classifying natural hazards at **low latency**
-- AI-driven severity analysis module for context-aware safety recommendations
-- SOS workflows, real-time alerts & location-based safe zone suggestions
-
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/🔴_Live_Demo-Visit-red?style=flat-square" /></a>
-  <a href="https://github.com/Asish438"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-</td>
-<td width="50%" valign="top">
+**Real-time natural disaster monitoring & alert system with AI-driven severity analysis**
+
+✨ **Key Features:**
+- 📊 Live hazard classification with 87% accuracy (XGBoost ensemble)
+- 🚨 Context-aware severity scoring & automated alert routing
+- 📍 Location-based safe zone recommendations
+- 💨 Redis-cached analytics for ultra-low latency
+- 🆘 SOS workflow & real-time streaming capabilities
+
+<a href="https://github.com/Asish438">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
 
 ### 👩‍🦺 HerWell — AI Women Safety Assistant
 
-**Java • Spring Boot • Gemini API • NLP**
-
-- NLP-powered safety assistant via Gemini API delivering personalized, context-aware guidance through scalable REST backend
-- Semantic processing pipelines for **sub-200ms** real-time response
-- Validated real-world safety use cases with improved model accuracy
-
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/🔴_Live_Demo-Visit-red?style=flat-square" /></a>
-  <a href="https://github.com/Asish438"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-</td>
-</tr>
-</table>
+**NLP-powered safety assistant delivering personalized, context-aware guidance via Gemini API**
+
+✨ **Key Features:**
+- 🧠 Semantic processing pipeline for real-time guidance
+- ⚡ Sub-200ms response latency with optimized prompting
+- 🎯 Context-aware safety recommendations
+- 📊 Validated use cases with improved model accuracy
+- 🔄 Continuous learning from user interactions
+
+<a href="https://github.com/Asish438">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
 ## 💼 Experience
 
 <table>
+<tr>
+<td>🤖</td>
+<td><strong>Full-Stack Intern</strong> — Briskode Technologies <code>Aug 2026 – Present</code></td>
+</tr>
+<tr>
+<td></td>
+<td>
+  • Building scalable backend microservices with Spring Boot<br/>
+  • Integrating generative AI models for intelligent automation<br/>
+  • Frontend development with modern React patterns<br/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
 <td>🤖</td>
 <td><strong>AI/ML Intern</strong> — CTTC Bhubaneswar <code>2025</code></td>
