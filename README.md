@@ -149,33 +149,6 @@ Focus    : Spring Boot · Generative AI · System Design · Deep Learning
 
 <div align="center">
 
-### 💳 FinGuard AI — Fintech Fraud Detection & Compliance
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autoencoders-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-**Real-time fraud detection engine with RBI compliance Q&A, trip expense splitting & bank-grade authentication**
-
-✨ **Key Features:**
-- 🔍 Autoencoder-based anomaly detection for transaction fraud
-- 📋 RAG-powered RBI compliance knowledge base with domain-specific answers
-- 💰 Intelligent trip expense splitting with settlement algorithms
-- 🔐 JWT + OAuth2 authentication with OTP verification
-- ⚡ Sub-100ms fraud detection & microsecond response times
-
-<a href="https://github.com/Asish438/FinGuard-AI">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" />
-</a>
-
----
-
 ### 📚 Edutake — Full-Stack Learning Management System
 
 <p>
@@ -255,22 +228,6 @@ Focus    : Spring Boot · Generative AI · System Design · Deep Learning
 ## 💼 Experience
 
 <table>
-<tr>
-<td>🤖</td>
-<td><strong>Full-Stack Intern</strong> — Briskode Technologies <code>Aug 2026 – Present</code></td>
-</tr>
-<tr>
-<td></td>
-<td>
-  • Building scalable backend microservices with Spring Boot<br/>
-  • Integrating generative AI models for intelligent automation<br/>
-  • Frontend development with modern React patterns<br/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
 <tr>
 <td>🤖</td>
 <td><strong>AI/ML Intern</strong> — CTTC Bhubaneswar <code>2025</code></td>
